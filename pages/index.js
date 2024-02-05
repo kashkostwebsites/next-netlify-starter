@@ -16,7 +16,8 @@ export default function Home() {
           Hello! Welcome to the website!</code>
         </p>
       </main>
-    <p>This is some code!<p>
+    
+    <p>This is some code!</p>
 
       <Footer />
     </div>
